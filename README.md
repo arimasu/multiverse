@@ -2,7 +2,7 @@
 
 A little sketch in Processing 3 that draws a "multiverse" with recursion.
 
-## How to use the code in this repository
+## How to use the code in this repository:
 
 ### The quick and dirty way:
 
