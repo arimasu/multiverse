@@ -1,2 +1,3 @@
 # multiverse
-A little multiverse-drawing sketch.
+
+A little sketch in Processing 3 that draws a "multiverse" with recursion.
