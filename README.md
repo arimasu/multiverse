@@ -6,7 +6,7 @@ A little sketch in Processing 3 that draws a "multiverse" with recursion.
 
 ### The quick and dirty way:
 
-Just copy-paste the code out of the `multiverse.pde` sketch or download the entire repo as a .zip file and access the code that way.
+Just copy-paste the code out of the [multiverse.pdf](multiverse/multiverse.pde) sketch or download the entire repo as a .zip file and access the code that way.
 
 ### The Git way:
 
