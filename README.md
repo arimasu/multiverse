@@ -2,6 +2,10 @@
 
 A little sketch in Processing 3 that draws a "multiverse" with recursion.
 
+Example output:
+
+![a multiverse](./multiverse.png)
+
 ## How to use the code in this repository:
 
 ### The quick and dirty way:
