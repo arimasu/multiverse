@@ -2,13 +2,13 @@
 
 A little sketch in Processing 3 that draws a "multiverse" with recursion.
 
-How to use this repository.
+## How to use the code in this repository
 
-## The quick and dirty way:
+### The quick and dirty way:
 
 Just copy-paste the code out of the `multiverse.pde` sketch or download the entire repo as a .zip file and access the code that way.
 
-## The Git way:
+### The Git way:
 
 1. Fork this repository.
 2. Clone your fork to your computer.
